@@ -92,4 +92,4 @@ Elmer Chavarría
 
 ### Kali Purple Installation
 
-![Kali](screenshots/kali-installation.png)
+![Kali](/Kali_Linux/kali-desktop.png)
